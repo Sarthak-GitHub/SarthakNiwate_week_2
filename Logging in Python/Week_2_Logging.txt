@@ -1,0 +1,14 @@
+Please go through the below logging material and solve the Week_1_Functions problems
+
+https://docs.python.org/3/library/logging.html
+https://www.geeksforgeeks.org/logging-in-python/
+https://www.datasciencelearner.com/how-to-create-log-file-in-python/#:~:text=Custom%20Logging%20in%20Python%20The%20basic%20logging%20simply,and%20datefmt%20values%20inside%20the%20basicConfig%20%28%29%20method.
+https://dzone.com/articles/python-custom-logging-handler-example
+
+Tasks
+
+1. For Que 1 to 30 use basic logger with log format as time , user and log message
+
+2. For questiosn onwards 31, create custom logger with log format as time , user and log message. In addition to this log the function name and line number
+
+
